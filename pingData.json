@@ -1,0 +1,11 @@
+{
+  "host": "instagram.com",
+  "alive": true,
+  "output": "PING instagram.com (52.72.200.207): 56 data bytes\n64 bytes from 52.72.200.207: icmp_seq=0 ttl=232 time=83.614 ms\n\n--- instagram.com pingstatistics ---\n1 packets transmitted,\n  1 packets received,\n  0.0% packet loss\nround-trip min/avg/max/stddev = 83.614/83.614/83.614/0.000 ms\n",
+  "time": 83.614,
+  "min": "83.614",
+  "max": "83.614",
+  "avg": "83.614",
+  "stddev": "0.000",
+  "numeric_host": "52.72.200.207"
+}
